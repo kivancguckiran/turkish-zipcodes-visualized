@@ -1,3 +1,3 @@
-# zipcode-to-geolocation
+# Turkish ZipCodes Visualized
 
-Refer to [https://kivancguckiran.github.io/turkish-zipcodes-on-map/](https://kivancguckiran.github.io/turkish-zipcodes-on-map/) for the time being.
+Refer to [https://kivancguckiran.github.io/turkish-zipcodes-visualized/](https://kivancguckiran.github.io/turkish-zipcodes-visualized/) for the time being.
